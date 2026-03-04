@@ -1,0 +1,3 @@
+[[deployment.rewrites]]
+from = "/*"
+to = "/index.html"
